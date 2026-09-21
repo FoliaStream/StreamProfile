@@ -43,7 +43,7 @@ with st.container():
     <div class="info-card">
         <h1>Samuele Biasutti</h1>
         <div class="details">
-            <strong>Contact:</strong> &nbsp;|&nbsp; <a href="mailto:biasuttil8@gmail.com">biasuttil8@gmail.com</a> &nbsp;|&nbsp; 17-06-1997 &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/samuele-biasutti-165290193/" target="_blank">LinkedIn Profile </a> &nbsp;|&nbsp;
+            <strong>Contact:</strong> &nbsp;|&nbsp; <a href="mailto:biasutti18@gmail.com">biasutti18@gmail.com</a> &nbsp;|&nbsp; 17-06-1997 &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/samuele-biasutti-165290193/" target="_blank">LinkedIn Profile </a> &nbsp;|&nbsp;
             <br><br>
             Data and technical solutions professional with an engineering and economics background, combining data-driven modelling, techno-economic analysis and application development. Master's in Technology and Operations Management from the University of Groningen. Two years of experience in Wärtsilä's Decarbonization Modelling team, turning large operational datasets into simulation models and investment cases for customers and stakeholders. End-to-end development of data-driven applications, from databases and Python APIs to cloud-deployed web frontends, several of them released as open-source tools. Experience with international teams and clients across Europe and Asia, translating technical concepts into business value through client-facing reporting, teaching and coaching. Based in Vietnam.
         </div>
